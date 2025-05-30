@@ -1,4 +1,3 @@
-﻿namespace msgcard_actest;
 using AdaptiveCards.Templating;
 using Newtonsoft.Json;
 
