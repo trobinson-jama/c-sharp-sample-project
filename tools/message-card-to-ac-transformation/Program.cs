@@ -24,4 +24,10 @@ class Program
         // AdaptiveCardParseResult result = AdaptiveCard.FromJson(adaptiveCardJson);
         //result.Card has the AC output       
     }
+
+    //@description Here is a sample method
+    //@satisfies RRD-SREQ-4
+    static void sampleMethod() {
+        int number = 0;
+    }
 }
