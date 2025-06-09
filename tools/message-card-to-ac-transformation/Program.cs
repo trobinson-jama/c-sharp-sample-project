@@ -4,7 +4,6 @@ using Newtonsoft.Json;
 class Program
 {
     // @description Here is the main method
-    // @satisfies RRD-SREQ-3
     static void Main(string[] args)
     {
         var acTemplateJson = File.ReadAllText("actemplate.json");
