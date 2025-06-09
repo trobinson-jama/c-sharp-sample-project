@@ -26,7 +26,7 @@ class Program
     }
 
     // @description Here is a sample method
-    // @verifies RRD-SREQ-4
+    // @implements RRD-SREQ-4
     static void sampleMethod() {
         int number = 0;
     }
